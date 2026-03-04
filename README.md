@@ -32,5 +32,5 @@ Le workflow inclut :
 - `numpy==1.24.4`
 - `pandas==2.0.3`
 - `Pillow==11.1.0`
-- `scikit_learn==1.0.2``
+- `scikit_learn==1.0.2`
 - `streamlit==1.40.1`
