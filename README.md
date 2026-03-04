@@ -28,9 +28,9 @@ Le workflow inclut :
 - `model/` : Modèle entraîné et fichiers associés.  
 
 ##  Fichier `requirements.txt`
-- joblib==1.3.2
-- numpy==1.24.4
-- pandas==2.0.3
-- Pillow==11.1.0
-- scikit_learn==1.0.2
-- streamlit==1.40.1
+- `joblib==1.3.2`
+- `numpy==1.24.4`
+- `pandas==2.0.3`
+- `Pillow==11.1.0`
+- `scikit_learn==1.0.2``
+- `streamlit==1.40.1`
